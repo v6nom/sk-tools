@@ -1,3 +1,6 @@
+# Made by @v6nom on Github
+# >>> https://github.com/v6nom/sk-tools
+
 import requests
 from bs4 import BeautifulSoup
 import random
