@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/v6nom/assets/blob/main/sk_tools_main.jpg?raw=true", width="500", height="500">
+<img src="https://github.com/v6nom/assets/blob/main/sk_tools_main.jpg?raw=true", width="1000", height="800">
 </p>
 
 -----
