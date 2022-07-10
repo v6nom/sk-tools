@@ -43,7 +43,7 @@ With SK Tools you can have a lot of sk key.
 <strong>+ Have a fast api
 
 <p align="right">
-<img src="https://raw.githubusercontent.com/v6nom/assets/main/venom_logo2.jfif" width="250", height="250">
+<img src="https://raw.githubusercontent.com/v6nom/assets/main/venom_logo2.jfif" width="250", height="150">
 </p>
 <br><br>
 
