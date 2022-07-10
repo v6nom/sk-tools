@@ -82,5 +82,5 @@ With SK Tools you can have a lot of sk key.
 -----
 
 ### <p align="center">v6nom</p>
-  ### <p align="center">README.md inspired by https://github.com/billythegoat56/</p>
+  ### <p align="center">README.md inspired by https://github.com/billythegoat356//</p>
 
