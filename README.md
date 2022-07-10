@@ -67,7 +67,7 @@ With SK Tools you can have a lot of sk key.
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* Add a L7 option
+* Add a sk key scraper
 <br><br>
 
 -----
