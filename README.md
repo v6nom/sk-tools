@@ -34,11 +34,11 @@ With SK Tools you can have a lot of sk key.
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ The only limit... is you! The faster your connection is, the more powerful will be the attack</strong>
+<strong>+ Can generate unlimited sk key and check with no limit !</strong>
 <br>
-<strong>+ Show informations about the attack in real time</strong>
+<strong>+ Can know the error of the sk key if not work</strong>
 <br>
-<strong>+ Can down servers but also family networks</strong>
+<strong>+ Can have private sk key with long time</strong>
 <br>
 
 <p align="right">
