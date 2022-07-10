@@ -57,7 +57,7 @@ With SK Tools you can have a lot of sk key.
 <br><br>
 * Time: 🔵
 * Complexity: 🔵
-* Service: ⚫
+* Service: 🔴
 <br><br>
 
 -----
@@ -81,5 +81,6 @@ With SK Tools you can have a lot of sk key.
 
 -----
 
-### <p align="center">billythegoat356</p>
+### <p align="center">v6nom</p>
+  ### <p align="center">README.md inspired by https://github.com/billythegoat56/</p>
 
