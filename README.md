@@ -45,9 +45,6 @@ With SK Tools you can have a lot of sk key.
 <p align="right">
 <img src="https://repository-images.githubusercontent.com/511306162/fbf9f42b-8aee-4d1a-8f2f-5b68285736a7" width="250", height="250">
 </p>
-
-<br>
-<strong>- Only works on networks without a firewall (but who uses firewalls anyways 😂)</strong>
 <br><br>
 
 -----
