@@ -14,7 +14,7 @@ SK Tools is the best sk checker and sk generator in Python3.
 With SK Tools you can have a lot of sk key.
 <br><br><br>
 </strong>
-<img src="https://raw.githubusercontent.com/v6nom/assets/main/sk-tools_presentation.gif" width="900", height="500">
+<img src="https://raw.githubusercontent.com/v6nom/assets/main/sk-tools_presentation.gif" width="850", height="500">
 </p>
 <br>
 
